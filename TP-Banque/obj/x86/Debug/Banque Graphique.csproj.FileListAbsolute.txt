@@ -1,0 +1,119 @@
+F:\2021-2022\SIO2\Prog C#\TP Banque 2021-2022\Banque Corrige V0 - Interface Graphique-Ss Serialisation\bin\Debug\WindowsFormsApplication1.exe
+F:\2021-2022\SIO2\Prog C#\TP Banque 2021-2022\Banque Corrige V0 - Interface Graphique-Ss Serialisation\bin\Debug\WindowsFormsApplication1.pdb
+F:\2021-2022\SIO2\Prog C#\TP Banque 2021-2022\Banque Corrige V0 - Interface Graphique-Ss Serialisation\obj\x86\Debug\Banque.Vue.Gestion.resources
+F:\2021-2022\SIO2\Prog C#\TP Banque 2021-2022\Banque Corrige V0 - Interface Graphique-Ss Serialisation\obj\x86\Debug\Banque.Vue.FormClient.resources
+F:\2021-2022\SIO2\Prog C#\TP Banque 2021-2022\Banque Corrige V0 - Interface Graphique-Ss Serialisation\obj\x86\Debug\Banque.Properties.Resources.resources
+F:\2021-2022\SIO2\Prog C#\TP Banque 2021-2022\Banque Corrige V0 - Interface Graphique-Ss Serialisation\obj\x86\Debug\Banque Graphique.csproj.GenerateResource.cache
+F:\2021-2022\SIO2\Prog C#\TP Banque 2021-2022\Banque Corrige V0 - Interface Graphique-Ss Serialisation\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\2021-2022\SIO2\Prog C#\TP Banque 2021-2022\Banque Corrige V0 - Interface Graphique-Ss Serialisation\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\2021-2022\SIO2\Prog C#\TP Banque 2021-2022\Banque Corrige V0 - Interface Graphique\bin\Debug\WindowsFormsApplication1.exe
+E:\2021-2022\SIO2\Prog C#\TP Banque 2021-2022\Banque Corrige V0 - Interface Graphique\bin\Debug\WindowsFormsApplication1.pdb
+E:\2021-2022\SIO2\Prog C#\TP Banque 2021-2022\Banque Corrige V0 - Interface Graphique\obj\x86\Debug\Banque Graphique.csproj.AssemblyReference.cache
+E:\2021-2022\SIO2\Prog C#\TP Banque 2021-2022\Banque Corrige V0 - Interface Graphique\obj\x86\Debug\Banque.Vue.Gestion.resources
+E:\2021-2022\SIO2\Prog C#\TP Banque 2021-2022\Banque Corrige V0 - Interface Graphique\obj\x86\Debug\Banque.Vue.FormClient.resources
+E:\2021-2022\SIO2\Prog C#\TP Banque 2021-2022\Banque Corrige V0 - Interface Graphique\obj\x86\Debug\Banque.Properties.Resources.resources
+E:\2021-2022\SIO2\Prog C#\TP Banque 2021-2022\Banque Corrige V0 - Interface Graphique\obj\x86\Debug\Banque Graphique.csproj.GenerateResource.cache
+E:\2021-2022\SIO2\Prog C#\TP Banque 2021-2022\Banque Corrige V0 - Interface Graphique\obj\x86\Debug\Banque Graphique.csproj.CoreCompileInputs.cache
+E:\2021-2022\SIO2\Prog C#\TP Banque 2021-2022\Banque Corrige V0 - Interface Graphique\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\2021-2022\SIO2\Prog C#\TP Banque 2021-2022\Banque Corrige V0 - Interface Graphique\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\2021-2022\SIO2\Prog C#\TP Banque 2021-2022\Banque Corrige V2 - Interface Graphique\obj\x86\Debug\Banque.Vue.Gestion.resources
+E:\2021-2022\SIO2\Prog C#\TP Banque 2021-2022\Banque Corrige V2 - Interface Graphique\obj\x86\Debug\Banque.Vue.FormClient.resources
+E:\2021-2022\SIO2\Prog C#\TP Banque 2021-2022\Banque Corrige V2 - Interface Graphique\obj\x86\Debug\Banque.Properties.Resources.resources
+E:\2021-2022\SIO2\Prog C#\TP Banque 2021-2022\Banque Corrige V2 - Interface Graphique\obj\x86\Debug\Banque Graphique.csproj.GenerateResource.cache
+E:\2021-2022\SIO2\Prog C#\TP Banque 2021-2022\Banque Corrige V2 - Interface Graphique\obj\x86\Debug\Banque Graphique.csproj.CoreCompileInputs.cache
+E:\2021-2022\SIO2\Prog C#\TP Banque 2021-2022\Banque Corrige V2 - Interface Graphique\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\2021-2022\SIO2\Prog C#\TP Banque 2021-2022\Banque Corrige V2 - Interface Graphique\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\2021-2022\SIO2\Prog C#\TP Banque 2021-2022\Banque Corrige V2 - Interface Graphique\bin\Debug\WindowsFormsApplication1.exe
+E:\2021-2022\SIO2\Prog C#\TP Banque 2021-2022\Banque Corrige V2 - Interface Graphique\bin\Debug\WindowsFormsApplication1.pdb
+E:\2021-2022\SIO2\Prog C#\TP Banque 2021-2022\Banque Corrige V2 - Interface Graphique\obj\x86\Debug\Banque Graphique.csproj.AssemblyReference.cache
+E:\2021-2022\SIO2\Prog C#\TP Banque 2021-2022\Banque Corrige V2 - Interface Graphique\bin\Debug\WindowsFormsApplication1.exe.config
+E:\2021-2022\SIO2\Prog C#\TP Banque 2021-2022\Banque Corrige V2 - Interface Graphique\obj\x86\Debug\Banque Graphique.csproj.SuggestedBindingRedirects.cache
+C:\Users\Salim\Desktop\Banque Corrige V2 - Interface Graphique\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Salim\Desktop\Banque Corrige V2 - Interface Graphique\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Salim\Desktop\Banque Corrige V2 - Interface Graphique\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Salim\Desktop\Banque Corrige V2 - Interface Graphique\obj\x86\Debug\Banque Graphique.csproj.AssemblyReference.cache
+C:\Users\Salim\Desktop\Banque Corrige V2 - Interface Graphique\obj\x86\Debug\Banque Graphique.csproj.SuggestedBindingRedirects.cache
+C:\Users\Salim\Desktop\Banque Corrige V2 - Interface Graphique\obj\x86\Debug\Banque.Vue.Gestion.resources
+C:\Users\Salim\Desktop\Banque Corrige V2 - Interface Graphique\obj\x86\Debug\Banque.Vue.FormClient.resources
+C:\Users\Salim\Desktop\Banque Corrige V2 - Interface Graphique\obj\x86\Debug\Banque.Properties.Resources.resources
+C:\Users\Salim\Desktop\Banque Corrige V2 - Interface Graphique\obj\x86\Debug\Banque Graphique.csproj.GenerateResource.cache
+C:\Users\Salim\Desktop\Banque Corrige V2 - Interface Graphique\obj\x86\Debug\Banque Graphique.csproj.CoreCompileInputs.cache
+C:\Users\Salim\Desktop\Banque Corrige V2 - Interface Graphique\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Salim\Desktop\Banque Corrige V2 - Interface Graphique\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Google.Protobuf.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\MySql.Data.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Renci.SshNet.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\System.Buffers.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\System.Memory.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Zstandard.Net.dll
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Google.Protobuf.pdb
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Google.Protobuf.xml
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\MySql.Data.xml
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\Renci.SshNet.xml
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\System.Buffers.xml
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\System.Memory.xml
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mazuz\Desktop\TP-Banque\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mazuz\Desktop\TP-Banque\obj\x86\Debug\Banque Graphique.csproj.AssemblyReference.cache
+C:\Users\Mazuz\Desktop\TP-Banque\obj\x86\Debug\Banque Graphique.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mazuz\Desktop\TP-Banque\obj\x86\Debug\Banque.Vue.Gestion.resources
+C:\Users\Mazuz\Desktop\TP-Banque\obj\x86\Debug\Banque.Vue.FormClient.resources
+C:\Users\Mazuz\Desktop\TP-Banque\obj\x86\Debug\Banque.Properties.Resources.resources
+C:\Users\Mazuz\Desktop\TP-Banque\obj\x86\Debug\Banque Graphique.csproj.GenerateResource.cache
+C:\Users\Mazuz\Desktop\TP-Banque\obj\x86\Debug\Banque Graphique.csproj.CoreCompileInputs.cache
+C:\Users\Mazuz\Desktop\TP-Banque\obj\x86\Debug\Banque Graphique.csproj.CopyComplete
+C:\Users\Mazuz\Desktop\TP-Banque\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Mazuz\Desktop\TP-Banque\obj\x86\Debug\WindowsFormsApplication1.pdb
